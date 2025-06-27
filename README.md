@@ -13,7 +13,7 @@ styles without AI as an intermediary.
 
 The starter code for this challenge is located on GitHub:
 
-https://github.com/WorkingFamilies/data-engineer-code-challenge
+https://github.com/WorkingFamilies/dse-challenge
 
 ## **Part A: Improve pseudocode script**
 
