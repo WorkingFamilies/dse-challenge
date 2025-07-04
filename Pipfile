@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+google-cloud-bigquery = "*"
+requests = "*"
+
+[dev-packages]
+types-requests = "*"
+black = "*"
+flake8 = "*"
+flake8-comprehensions = "*"
+flake8-unused-arguments = "*"
+isort = "*"
+pep8 = "*"
+mypy = "*"
+pgcli = "*"
+pytest = "*"
+pytest-mock = "*"
+setuptools = "*"
+mock = "*"
+
+
+[requires]
+python_version = "3.13"
+
+[pipenv]
+allow_prereleases = true
